@@ -25,3 +25,22 @@ The theme is lightweight, **fully responsive**, and built using the latest web t
 ✅ Multilingual-ready 🌍  
 
 ## 📂 Theme Structure  
+/theme-name
+│── /assets
+│ ├── /css # Compiled CSS files
+│ ├── /js # JavaScript files
+│ ├── /scss # SASS files
+│ ├── /fonts # Custom fonts
+│ ├── /images # Theme images
+│── /inc # Includes (custom functions, theme options)
+│── /template-parts # Reusable template components
+│── 404.php # Custom 404 page
+│── archive.php # Archive page template
+│── functions.php # Theme functions & setup
+│── header.php # Header template
+│── footer.php # Footer template
+│── index.php # Main template file
+│── page.php # Default page template
+│── single.php # Single post template
+│── style.css # Theme stylesheet
+│── README.md # Project documentation
