@@ -1,0 +1,55 @@
+/* 'Inter' */
+@font-face {
+    font-family: "Inter";
+    src: url("Inter/Inter_18pt-Regular.ttf") format("truetype");
+    font-weight: 400;
+}
+@font-face {
+    font-family: "Inter";
+    src: url("Inter/Inter_18pt-Medium.ttf") format("truetype");
+    font-weight: 500;
+}
+@font-face {
+    font-family: "Inter";
+    src: url("Inter/Inter_18pt-SemiBold.ttf") format("truetype");
+    font-weight: 600;
+}
+
+/* 'PP Neue Montreal' */
+@font-face {
+    font-family: "Montreal";
+    src: url("Montreal/ppneuemontreal-thin.otf") format("opentype");
+    font-weight: 100;
+}
+@font-face {
+    font-family: "Montreal";
+    src: url("Montreal/ppneuemontreal-italic.otf") format("opentype");
+    font-weight: 400;
+}
+@font-face {
+    font-family: "Montreal";
+    src: url("Montreal/ppneuemontreal-book.otf") format("opentype");
+    font-weight: 400;
+}
+@font-face {
+    font-family: "Montreal";
+    src: url("Montreal/ppneuemontreal-medium.otf") format("opentype");
+    font-weight: 500;
+}
+@font-face {
+    font-family: "Montreal";
+    src: url("Montreal/ppneuemontreal-semibolditalic.otf") format("opentype");
+    font-weight: 600;
+}
+@font-face {
+    font-family: "Montreal";
+    src: url("Montreal/ppneuemontreal-bold.otf") format("opentype");
+    font-weight: 700;
+}
+
+/* Roboto */
+@font-face {
+    font-family: "Roboto";
+    src: url("Roboto/Roboto-Regular.ttf") format("truetype");
+    font-weight: 400;
+}
